@@ -1,4 +1,3 @@
-# jeremylai.github.io
 Hi, I am Jeremy 👋
 
 I like to build interesting apps. 🎉
